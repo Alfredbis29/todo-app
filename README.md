@@ -1,4 +1,4 @@
-# Todo-App![]
+# Todo-App
 
 Todo App is a simple and responsive web application that allows users to add, delete, and manage a list of tasks. Built using **React**, **TypeScript**, and **Tailwind CSS** for fast development and clean UI.
 
@@ -32,5 +32,5 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Alfredbis29/todo-app
 cd todo-app
